@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <header align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text='Jasmine'sgithub'&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jasmine's+github&fontSize=70" />
 </header>
 
 
